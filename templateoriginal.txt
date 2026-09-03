@@ -35,4 +35,7 @@
 <li>
     <a href="https://intensivo.puepenarm.com/" rel="sponsored">slot qris</a>
   </li>
+<li>
+    <a href="https://thebrew.co.uk/" rel="sponsored">slot thailand</a>
+  </li>
 </ul>
