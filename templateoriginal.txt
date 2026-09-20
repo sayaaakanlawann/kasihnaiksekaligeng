@@ -17,4 +17,7 @@
   <li>
     <a href="https://rechthaler.com/" rel="sponsored">slot thailand</a>
   </li>
+  <li>
+    <a href="https://www.yantuwu.com/pages/" rel="sponsored">jalalive</a>
+  </li>
 </ul>
