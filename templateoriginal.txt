@@ -20,4 +20,7 @@
   <li>
     <a href="https://www.yantuwu.com/pages/" rel="sponsored">jalalive</a>
   </li>
+  <li>
+    <a href="http://www.nasinebocizi.cz/" rel="sponsored">slot gacor terbaik</a>
+  </li>
 </ul>
